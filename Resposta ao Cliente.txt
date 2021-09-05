@@ -1,0 +1,11 @@
+Bom dia a todos!
+
+O problema em questão do banco de dados foi resolvido, o problema estava no conjunto de caracteres do banco de dados 
+usados na criação de tabelas de banco de dados, já foi atualizado para nova versão. Grato a todos
+
+Atenciosamente
+
+Vitor Lucas
+
+Agência Fastway
+ 
